@@ -25,3 +25,11 @@ https://github.com/user-attachments/assets/0eeb6093-e42b-431a-944d-c3bd56566394
 
 [コード](SwiftUI6PlayGround/Effect/SymbolEffect.swift)
 
+
+## Text
+
+### Search/replacement
+https://github.com/user-attachments/assets/b6760fc5-b3bb-4d44-a9d9-0d68ea8808e9
+
+
+[コード]([SwiftUI6PlayGround/Effect/SymbolEffect.swift](https://github.com/hiroyuki0402/TextEditor))
